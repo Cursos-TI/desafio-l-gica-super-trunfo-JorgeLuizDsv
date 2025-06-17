@@ -134,7 +134,7 @@ int main()
     printf("Pontos Turísticos: %d\n", carta2.pontos_turisticos);
     printf("Densidade Populacional: %.2f hab/km²\n", densidade2);
     printf("PIB per Capita: %.2f reais\n", pib_per_capita2);
-    printf("---------------------------\n");
+
 
     // Cálculo da densidade populacional
     carta1.densidade = carta1.populacao / carta1.area;
